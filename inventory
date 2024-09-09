@@ -1,29 +1,29 @@
 [mongodb]
-mongodb.joindevops.online
+mongodb.deshik.com
 
 [catalogue]
-catalogue.joindevops.online
+catalogue.deshik.com
 
 [web]
-web.joindevops.online
+web.deshik.com
 
 [redis]
-redis.joindevops.online
+redis.deshik.com
 
 [user]
-user.joindevops.online
+user.deshik.com
 
 [cart]
-cart.joindevops.online
+cart.deshik.com
 
 [mysql]
-mysql.joindevops.online
+mysql.deshik.com
 
 [shipping]
-shipping.joindevops.online
+shipping.deshik.com
 
 [rabbitmq]
-rabbitmq.joindevops.online
+rabbitmq.deshik.com
 
 [payment]
-payment.joindevops.online
+payment.deshik.com
